@@ -95,6 +95,9 @@ The application can process educational PDFs, generate summaries, and answer que
 
 Nikhil Tiwari
 
-BCA Student
 
 Interested in Python, Web Development, Artificial Intelligence, and Natural Language Processing.
+
+## 🌐 Live Demo
+
+👉 [Try AI Study Assistant](https://ai-study-assistant-99.streamlit.app/)
